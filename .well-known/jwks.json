@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "mXsr5c8cdH1U3PdvXuQYfaDoFbRTDtlYrHU6jGcmYMSVl6BFCv7gstHsRwKMqzI3TG2dGGYdbz_n8UNQdV-IBOC8dGLuLRwBmaPiJQoxtyva6IBw8d5ktF4AEjdCpoj7lgg4-epy5K4lQs9jJs0ejbYBNhkplV8TrutMGL6QktRSxHgLlyxCKKV9f11qalBT-NT_0yD4mgGujnPD4w-fUXiVabmeL8v7Bnu3ys4vo5zN2UYqWyjf8AMteZjEwAg-zST6ybpQF6GqUp0WNBPrUXmJM02ZiGSedVHpfDWDKzde4eKVD0RLCeMntThej3I_t2Zf443B4iIeqRdXoUH4Uw",
+      "e": "AQAB",
+      "kid": "canvas-tool-key-local-development",
+      "use": "sig",
+      "alg": "RS256"
+    }
+  ]
+}
