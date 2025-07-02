@@ -1,0 +1,96 @@
+{
+  "2506": [
+    {
+      "version": "2.0.0",
+      "en": [
+        {
+          "label": "This Change Log added",
+          "description": "A new change log feature has been added to keep track of updates and changes in the application.",
+          "tag": "FEATURE",
+          "visible": true
+        },
+        {
+          "label": "New exam-retrieval API",
+          "description": "Speeding up initial exam downloads with improved API architecture.",
+          "tag": "PERFORMANCE",
+          "visible": true
+        },
+        {
+          "label": "Send to grading tools - Analog",
+          "description": "Send to Canvas grading tools for Analog exams should now work correctly.",
+          "tag": "BUG",
+          "visible": true
+        },
+        {
+          "label": "Bonus Points PDF points text position",
+          "description": "Fixed position of points text output to allowing for better visibility when using tablets.",
+          "tag": "ENHANCEMENT",
+          "visible": true
+        },
+        {
+          "label": "Temp file cleanup",
+          "description": "Improved cleanup of temporary files to prevent storage issues. Aswell as a task run 04:00 every day as fallback.",
+          "tag": "PERFORMANCE",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "en": [
+        {
+          "label": "QuestionNumber support in PDF",
+          "description": "Added support for questionNumber on the PDF to improve bonus points tracking.",
+          "tag": "FEATURE"
+        },
+        {
+          "label": "BonusPoints-pdf points placement",
+          "description": "Moved BonusPoints-pdf points placement on PDF output for better visibility.",
+          "tag": "ENHANCEMENT"
+        },
+        {
+          "label": "Assignments in AssignmentsGroups",
+          "description": "Assignments are now placed and sorted in Canvas - AssignmentGroups",
+          "tag": "FEATURE"
+        },
+        {
+          "label": "AppOverview UI improvements",
+          "description": "Added 'tags' instead of pure text",
+          "tag": "ENHANCEMENT"
+        }
+      ]
+    }
+  ],
+  "2504": [
+    {
+      "version": "1.5.1",
+      "en": [
+        {
+          "label": "Add Möbius Grading video guide",
+          "description": "A new video guide has been added to help users understand how to use Möbius Grading effectively.",
+          "tag": "GUIDES"
+        },
+        {
+          "label": "Fix PDF generation for bonus points",
+          "description": "Resolved an issue where bonus points were not being correctly displayed in the PDF output.",
+          "tag": "BUG"
+        },
+        {
+          "label": "Added PDF-template-sheets",
+          "description": "Introduced a new PDF template-sheet based on Chalmers' template for better exam formatting.",
+          "tag": "ENHANCEMENT"
+        }
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "en": [
+        {
+          "label": "Improve colors for guides",
+          "description": "Enhanced the visibility of guides by improving color contrast and clarity.",
+          "tag": "ENHANCEMENT"
+        }
+      ]
+    }
+  ]
+}
