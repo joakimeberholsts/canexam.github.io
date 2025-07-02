@@ -10,6 +10,12 @@
           "visible": true
         },
         {
+          "label": "Added to see updates REMOVE LATER",
+          "description": "TEST",
+          "tag": "FEATURE",
+          "visible": true
+        },
+        {
           "label": "New exam-retrieval API",
           "description": "Speeding up initial exam downloads with improved API architecture.",
           "tag": "PERFORMANCE",
